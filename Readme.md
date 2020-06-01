@@ -17,7 +17,7 @@ To run the model,
 
 Load all the test images in Test_Data folder
 Images whould be in .png format
-
+```
 $ sh test.sh
-
+```
 Final results will be available on Final_RESULTS folder
